@@ -10,7 +10,7 @@ J3K Technologies delivers professional structured cabling services designed for 
 
 Today’s networks support far more than basic connectivity. Cloud platforms, VoIP systems, access control, surveillance, and IoT devices all rely on a stable cabling foundation. Structured cabling must be designed with precision, installed correctly, and maintained over time to support evolving technology.
 
-J3K Technologies approaches cabling as a long-term investment—one that must deliver reliability today and flexibility tomorrow.
+J3K Technologies approaches cabling as a long-term investment-one that must deliver reliability today and flexibility tomorrow.
 
 ---
 
@@ -102,7 +102,7 @@ J3K Technologies also functions as a data closet cleanup contractor, ensuring cl
 
 ## Abandoned Cable Removal Service Provider
 
-Abandoned cables are more than an eyesore—they pose safety, compliance, and performance risks. As an abandoned cable removal service provider, J3K Technologies helps organizations maintain clean and compliant infrastructure.
+Abandoned cables are more than an eyesore-they pose safety, compliance, and performance risks. As an abandoned cable removal service provider, J3K Technologies helps organizations maintain clean and compliant infrastructure.
 
 Abandoned cable removal services provide:
 - Compliance with building and fire codes  
